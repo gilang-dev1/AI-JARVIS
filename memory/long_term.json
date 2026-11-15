@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "language": {
+      "value": "Indonesian",
+      "updated": "2026-11-01"
+    },
+    "name": {
+      "value": "Tuan Gilang",
+      "updated": "2026-11-01"
+    },
+    "honorific_address": {
+      "value": "true",
+      "updated": "2026-11-01"
+    }
+  },
+  "preferences": {
+    "honorific_address": {
+      "value": "false",
+      "updated": "2026-11-01"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "sessions": [
+    {
+      "date": "2026-11-01",
+      "summary": "User berhasil meminta asisten untuk membuka YouTube di Microsoft Edge dan memutar video dari channel Alffy Rev setelah beberapa kali percobaan. Di akhir percakapan, user mengatur ulang ingatan asisten ke mode default sebelum akhirnya mengakhiri interaksi dengan ucapan selamat mal",
+      "language": "Indonesian"
+    }
+  ]
+}
